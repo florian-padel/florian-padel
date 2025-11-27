@@ -43,6 +43,8 @@
 
 # 📊 GitHub Stats:
 
+[LeetCode](https://leetcode.com/u/Flowwl/)
+
 <img src="https://github-readme-stats.vercel.app/api?username=flowwl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowwl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook,html,java" />
 
