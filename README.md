@@ -22,25 +22,23 @@
 
 ### DB
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongoDB-%63316192.svg?style=for-the-badge&logo=mongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongoDB&logoColor=white&labelColor=47A248&color=47A248)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-Vuejs
-Angular
+![Vuejs](https://img.shields.io/badge/VueJS-100000?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D&color=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white&labelColor=0F0F11&color=0F0F11)
+
 
 ### Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-Digital Ocean
-Azure
-AWS
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-100000?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=0080FF&color=0080FF)
 
 ### API
-
-Elastic Search
-
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-100000?style=for-the-badge&logo=elastic&logoColor=white&labelColor=005571&color=005571)
+![Zapier](https://img.shields.io/badge/Zapier-100000?style=for-the-badge&logo=zapier&logoColor=white&labelColor=FF4F00&color=FF4F00)
 
 
 # 📊 GitHub Stats:
